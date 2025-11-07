@@ -58,7 +58,7 @@ The schema adheres to 2NF. This form is primarily concerned with tables that hav
 
 ### Third Normal Form (3NF)
 
-The schema is designed in 3NF, which aims to eliminate transitive dependencies (where a non-key attribute depends on another non-key attribute).
+The schema adheres to 3NF, which aims to eliminate transitive dependencies (where a non-key attribute depends on another non-key attribute).
 
 **Examples of 3NF application:**
 
